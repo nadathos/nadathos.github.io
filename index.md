@@ -5,14 +5,14 @@ layout: default
 <div id="postbox">
   <h2 id="padded"> Newest posts </h2>
 <ul style="list-style: none;">
+  <hr class="fadinggrad">
   <li>
     {% for post in site.posts limit:10 %}
         <a style="display:block;" href="{{ post.url }}">
           <div id="postentry">
-            <hr class="fadinggrad">
-            <h3 style="color:gold">{{ post.title }}</h3>
+            <h2 style="color:gold">{{ post.title }}</h2>
             {%if post.excerpt%}
-              {{post.excerpt}}
+              <p>{{post.excerpt}}</p>
             {%endif%}
             <p> Author: {{post.author}}, Published: {{post.date | date_to_long_string }}</p>
             <hr class="fadinggrad">
