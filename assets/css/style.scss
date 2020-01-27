@@ -2,3 +2,8 @@
 ---
 
 @import "jekyll-theme-midnight";
+
+#navi {
+    display: flex;
+    justify-content: space-evenly;
+}
