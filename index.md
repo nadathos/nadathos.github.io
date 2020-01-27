@@ -3,21 +3,24 @@ layout: default
 ---
 
 <div id="postbox">
-  <h2> Newest posts </h2>
-<ul>
+  <h2 id="padded"> Newest posts </h2>
+<ul style="list-style: none;">
   <li>
     {% for post in site.posts limit:10 %}
+        <a style="display:block;" href="{{ post.url }}">
           <div id="postentry">
-          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-          {%if post.excerpt%}
-            {{post.excerpt}}
-          {%endif%}
-          <p> Author: {{post.author}}, Published: {{post.date | date_to_long_string }}</p>
-          <hr class="fadinggrad">
-            </div>
+            <hr class="fadinggrad">
+            <h3 style="color:gold">{{ post.title }}</h3>
+            {%if post.excerpt%}
+              {{post.excerpt}}
+            {%endif%}
+            <p> Author: {{post.author}}, Published: {{post.date | date_to_long_string }}</p>
+            <hr class="fadinggrad">
+          </div>
+        </a>
     {% endfor %}
   </li>
-</ul>>
+</ul>
 </div>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
