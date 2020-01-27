@@ -9,7 +9,7 @@ layout: default
   <li>
     {% for post in site.posts limit:10 %}
         <a style="display:block;" href="{{ post.url }}">
-          <div class="flex">
+          <div>
             <div class="postthumb">
               {% if post.thumbnail %}
               <img src="{{ post.thumbnail }}" />

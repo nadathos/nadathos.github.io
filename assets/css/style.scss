@@ -20,17 +20,12 @@
 }
 
 .postthumb flex {
-    width:128px;
-    height:128px;
-     background:white;
-     font-size: 2em;
-     text-align:center;
+    max-width: 80%
 }
 
 .postentry flex {
-     background:white;
-     font-size: 2em;
-     text-align:center;
+    font-size: 2em;
+    text-align:center;
 }
 
 #postbox {
