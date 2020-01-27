@@ -10,14 +10,14 @@ layout: default
     {% for post in site.posts limit:10 %}
         <a style="display:block;" href="{{ post.url }}">
           <div>
-            <div class="postthumb">
+            <div>
               {% if post.thumbnail %}
               <img src="{{ post.thumbnail }}" />
               {% else %}
               <img src="assets/images/thumb.png" />
               {% endif %}
             </div>
-            <div class="postentry">
+            <div>
               <h2 style="color:gold">{{ post.title }}</h2>
               {%if post.excerpt%}
                 <p>{{post.excerpt}}</p>
