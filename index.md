@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: default
 title: Welcome to i-Dimensional!
 tagline: A blog about video games and general culture
 ---
-{% include JB/setup %}
 
 <ul class="posts">
   {% for post in site.posts %}
