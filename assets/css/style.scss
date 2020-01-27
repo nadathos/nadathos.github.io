@@ -10,6 +10,8 @@
 }
 
 #postbox {
+  text-align: justify;
+
   height: 100%;
   margin: 0;
   display: grid;
@@ -29,3 +31,8 @@
     ) 1 100%;
 }
 
+hr.fadinggrad {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), gold, rgba(0, 0, 0, 0));
+}
