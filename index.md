@@ -2,14 +2,22 @@
 layout: default
 ---
 
+<div>
 <ul>
-  {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
+  <li>
+  <!-- {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %} -->
+    {% for post in site.posts %}
+      <!-- {% capture date %}{{post.date | date: '%s' | plus: 0 }}{% endcapture %} -->
+          <div>
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <!-- {%if post.excerpt%} -->
+            {{post.excerpt}}
+          <!-- {%endif%} -->
+            </div>
     {% endfor %}
+  </li>
 </ul>>
-
+</div>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
