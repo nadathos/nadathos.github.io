@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Welcome to i-Dimensional!
 tagline: A blog about video games and general culture
 ---
