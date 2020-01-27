@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div>
+<div id="postbox">
+  <h2> Newest posts </h2>
 <ul>
   <li>
     {% for post in site.posts limit:10 %}
@@ -11,7 +12,7 @@ layout: default
           {%if post.excerpt%}
             {{post.excerpt}}
           {%endif%}
-          <p> Author: {{post.author}}, Published: {{post.date}}</p>
+          <p> Author: {{post.author}}, Published: {{post.date | date_to_long_string }}</p>
             </div>
     {% endfor %}
   </li>
