@@ -5,14 +5,13 @@ layout: default
 <div>
 <ul>
   <li>
-  <!-- {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %} -->
-    {% for post in site.posts %}
-      <!-- {% capture date %}{{post.date | date: '%s' | plus: 0 }}{% endcapture %} -->
+    {% for post in site.posts limit:10 %}
           <div>
           <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-          <!-- {%if post.excerpt%} -->
+          {%if post.excerpt%}
             {{post.excerpt}}
-          <!-- {%endif%} -->
+          {%endif%}
+          <p> Author: {{post.author}}, Published: {{post.date}}</p>
             </div>
     {% endfor %}
   </li>
