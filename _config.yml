@@ -144,3 +144,9 @@ excerpt_separator: <!--more-->
 
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: "assets/images"
+      values:
+        images: true
