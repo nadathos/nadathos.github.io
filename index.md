@@ -3,8 +3,8 @@ layout: default
 permalink: /
 ---
 
-{% assign PostsByDate =
-    site.posts | group_by_exp:"post", "post.date | date: '%s'" %}
+{% assign PostsByDate = site.posts %}
+
 
 <h2 id="left"> Newest post: </h2>
 <div id="postbox">
@@ -38,11 +38,10 @@ permalink: /
 </div>
 
 <div style="padding-top:3%">
-<h2 id="left"> similar: </h2>
+<h2 id="left"> Similar: </h2>
 <ul style="list-style: none;">
   <li>
     {% for post in PostsByDate limit:3 offset:1 %}
-    {% if post != newest_post %}
     {% if post %}
     <hr class="fadinggrad">
     {% endif %}
@@ -60,7 +59,6 @@ permalink: /
             </div>
           </div>
         </a>
-    {% endif %}
     {% endfor %}
   </li>
 </ul>

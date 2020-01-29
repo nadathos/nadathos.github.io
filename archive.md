@@ -3,8 +3,7 @@ layout: default
 permalink: /archive/
 ---
 
-{% assign PostsByDate =
-    site.posts | group_by_exp:"post", "post.date | date: '%s'" %}
+{% assign PostsByDate = site.posts %}
 
 <div id="postbox">
 <ul style="list-style: none;">
