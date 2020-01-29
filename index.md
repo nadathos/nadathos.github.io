@@ -45,7 +45,7 @@ permalink: /
 </div>
 
 <h2 id="left"> Similar: </h2>
-<div id="smaller">
+<div id="smaller_left">
 
     {% comment %}---> from https://stackoverflow.com/questions/25348389/jekyll-and-liquid-show-related-posts-by-amount-of-equal-tags-2 {% endcomment %}
     {% comment %}---> the maximum number of related to posts
@@ -77,7 +77,6 @@ permalink: /
       {% comment %} <hr class="fadinggrad"> {% endcomment %}
           <a style="display:block;" href="{{ post.url }}">
             <div>
-              <div>
                 <h2 style="color:gold">{{ post.title }}</h2>
                 {%if post.excerpt%}
                   <p>{{post.excerpt}}</p>
@@ -86,7 +85,6 @@ permalink: /
                 {% if post %}
                 <hr class="fadinggrad">
                 {% endif %}
-              </div>
             </div>
           </a>
       {% endif %}
@@ -101,8 +99,7 @@ permalink: /
       {% for post in PostsByDate limit: NumSimilarMissing offset:1 %}
       {% comment %} <hr class="fadinggrad"> {% endcomment %}
           <a style="display:block;" href="{{ post.url }}">
-            <div id="left">
-              <div>
+            <div>
                 <h2 style="color:gold">{{ post.title }}</h2>
                 {%if post.excerpt%}
                   <p>{{post.excerpt}}</p>
@@ -111,7 +108,6 @@ permalink: /
                 {% if post %}
                 <hr class="fadinggrad">
                 {% endif %}
-              </div>
             </div>
           </a>
       {% endfor %}

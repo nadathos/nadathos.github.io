@@ -15,6 +15,24 @@
   padding-bottom: 3%;
 }
 
+#smaller{
+-webkit-transform:scale(0.8);
+-moz-transform:scale(0.8);
+-ms-transform:scale(0.8);
+transform:scale(0.8);
+}
+
+#smaller_left{
+justify-content: left;
+padding-top: 3%;
+padding-bottom: 3%;
+
+-webkit-transform:scale(0.8);
+-moz-transform:scale(0.8);
+-ms-transform:scale(0.8);
+transform:scale(0.8);
+}
+
 #padded {
     margin: 5%;
 }
@@ -55,13 +73,6 @@
       gold,
       rgba(0, 0, 0, 0)
     ) 1 100%;
-}
-
-#smaller{
--webkit-transform:scale(0.8);
--moz-transform:scale(0.8);
--ms-transform:scale(0.8);
-transform:scale(0.8);
 }
 
 hr.fadinggrad {
