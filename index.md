@@ -5,7 +5,7 @@ permalink: /
 
 {% assign PostsByDate = site.posts %}
 
-
+<div class="wrapper">
 <div id="smaller_left">
 <h2 id="padded" style="color:gold">New:</h2>
 <ul style="list-style: none;">
@@ -108,4 +108,5 @@ permalink: /
     </li>
   </ul>
   <hr class="fadinggrad">
+</div>
 </div>

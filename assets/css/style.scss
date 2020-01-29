@@ -3,7 +3,17 @@
 
 @import "jekyll-theme-midnight";
 
+.mywrapper wrapper {
+    margin: 0;
+}
+
 #navi {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-decoration: none;
+
     margin-top: 5%;
     display: flex;
     justify-content: center;
@@ -23,8 +33,9 @@ transform:scale(0.8);
 }
 
 #smaller_left{
+display: flex;
 justify-content: left;
-padding-top: 1%;
+padding-top: 0rem;
 padding-bottom: 1%;
 
 -webkit-transform:scale(0.8);
@@ -34,7 +45,7 @@ transform:scale(0.8);
 }
 
 #padded {
-    margin: 5%;
+    margin-bottom: 5%;
 }
 
 .flex {

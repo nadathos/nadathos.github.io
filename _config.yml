@@ -141,3 +141,6 @@ github:
   is_project_page: false
 
 excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-feed
