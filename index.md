@@ -13,6 +13,7 @@ permalink: /
     {% for post in PostsByDate limit:1 %}
     <hr class="fadinggrad">
     {% assign newest_post = post %}
+    {% assign newest_tags = post.tags%}
         <a style="display:block;" href="{{ post.url }}">
           <div>
             <div>
@@ -37,29 +38,87 @@ permalink: /
 </ul>
 </div>
 
+<div class="relatedPosts">
+
+
+
+</div>
+
 <div style="padding-top:3%">
 <h2 id="left"> Similar: </h2>
 <ul style="list-style: none;">
   <li>
-    {% for post in PostsByDate limit:3 offset:1 %}
-    {% if post %}
-    <hr class="fadinggrad">
-    {% endif %}
-        <a style="display:block;" href="{{ post.url }}">
-          <div>
+    {% comment %}---> from https://stackoverflow.com/questions/25348389/jekyll-and-liquid-show-related-posts-by-amount-of-equal-tags-2 {% endcomment %}
+    {% comment %}---> the maximum number of related to posts
+                      to be printed {% endcomment %}
+    {% assign maxRelated = 3 %}
+
+    {% comment %}---> the minimum number of common tags
+                      to have for a post to be considered
+                      as a related post {% endcomment %}
+    {% assign minCommonTags =  1 %}
+
+    {% assign maxRelatedCounter = 0 %}
+
+    {% for post in PostsByDate offset:1 %}
+      {% assign sameTagCount = 0 %}
+      {% assign commonTags = '' %}
+
+      {% for tag in post.tags %}
+        {% comment %}---> Only compare if post is
+                          not same as current page {% endcomment %}
+        {% if post.url != page.url %}
+          {% if page.tags contains tag %}
+            {% assign sameTagCount = sameTagCount | plus: 1 %}
+            {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+            {% assign commonTags = commonTags | append: tagmarkup %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      {% if sameTagCount >= minCommonTags %}
+      <hr class="fadinggrad">
+          <a style="display:block;" href="{{ post.url }}">
             <div>
-              <h2 style="color:gold">{{ post.title }}</h2>
-              {%if post.excerpt%}
-                <p>{{post.excerpt}}</p>
-              {%endif%}
-              <p> Author: {{post.author}}, Tags: {% for tag in post.tags limit: 3 %} {{tag}}{% endfor %} Published: {{post.date | date_to_long_string }}</p>
-              {% if post %}
-              <hr class="fadinggrad">
-              {% endif %}
+              <div>
+                <h2 style="color:gold">{{ post.title }}</h2>
+                {%if post.excerpt%}
+                  <p>{{post.excerpt}}</p>
+                {%endif%}
+                <p> Author: {{post.author}}, Published: {{post.date | date_to_long_string }}, Common Tags: {{commonTags}}</p>
+                {% if post %}
+                <hr class="fadinggrad">
+                {% endif %}
+              </div>
             </div>
-          </div>
-        </a>
-    {% endfor %}
+          </a>
+      {% endif %}
+
+      {% if maxRelatedCounter >= maxRelated %}
+              {% break %}
+      {% endif %}
+      {% endfor %}
+
+      {% assign NumSimilarMissing =  maxRelated| plus: -maxRelatedCounter %}
+      {%if NumSimilarMissing != 0%}
+      {% for post in PostsByDate limit: NumSimilarMissing offset:1 %}
+      <hr class="fadinggrad">
+          <a style="display:block;" href="{{ post.url }}">
+            <div>
+              <div>
+                <h2 style="color:gold">{{ post.title }}</h2>
+                {%if post.excerpt%}
+                  <p>{{post.excerpt}}</p>
+                {%endif%}
+                <p> Author: {{post.author}}, most recent, Published: {{post.date | date_to_long_string }}</p>
+                {% if post %}
+                <hr class="fadinggrad">
+                {% endif %}
+              </div>
+            </div>
+          </a>
+      {% endfor %}
+      {% endif %}
   </li>
 </ul>
 </div>
