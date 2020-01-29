@@ -5,9 +5,8 @@ permalink: /archive/
 
 {% assign PostsByDate = site.posts %}
 
-<div id="postbox">
+<div id="smaller">
 <ul style="list-style: none;">
-  <hr class="fadinggrad">
   <li>
     {% for post in site.posts %}
         <a style="display:block;" href="{{ post.url }}">

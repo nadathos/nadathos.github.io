@@ -46,8 +46,7 @@ permalink: /
 
 <h2 id="left"> Similar: </h2>
 <div id="smaller">
-<ul style="list-style: none;">
-  <li>
+
     {% comment %}---> from https://stackoverflow.com/questions/25348389/jekyll-and-liquid-show-related-posts-by-amount-of-equal-tags-2 {% endcomment %}
     {% comment %}---> the maximum number of related to posts
                       to be printed {% endcomment %}
@@ -117,6 +116,5 @@ permalink: /
           </a>
       {% endfor %}
       {% endif %}
-  </li>
-</ul>
+
 </div>
