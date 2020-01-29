@@ -7,6 +7,7 @@ permalink: /
 
 
 <div id="smaller_left">
+<h2 id="padded" style="color:gold">New:</h2>
 <ul style="list-style: none;">
   <li>
     {% for post in PostsByDate limit:1 %}
@@ -39,7 +40,10 @@ permalink: /
 
 
 <div id="smaller_left">
-
+  <h2 id="padded" style="color:gold">Similar:</h2>
+  <hr class="fadinggrad">
+  <ul style="list-style: none;">
+    <li>
     {% comment %}---> from https://stackoverflow.com/questions/25348389/jekyll-and-liquid-show-related-posts-by-amount-of-equal-tags-2 {% endcomment %}
     {% comment %}---> the maximum number of related to posts
                       to be printed {% endcomment %}
@@ -76,7 +80,6 @@ permalink: /
                 {%endif%}
                 <p> Author: {{post.author}}, Published: {{post.date | date_to_long_string }}, common tags: {{commonTags}}</p>
                 {% if post %}
-                <hr class="fadinggrad">
                 {% endif %}
             </p>
           </a>
@@ -98,10 +101,11 @@ permalink: /
                 {%endif%}
                 <p> Author: {{post.author}}, Published: {{post.date | date_to_long_string }}, most recent</p>
                 {% if post %}
-                <hr class="fadinggrad">
                 {% endif %}
          </a>
       {% endfor %}
       {% endif %}
-
+    </li>
+  </ul>
+  <hr class="fadinggrad">
 </div>
