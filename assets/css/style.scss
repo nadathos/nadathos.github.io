@@ -9,6 +9,12 @@
     justify-content: space-evenly;
 }
 
+#left {
+  justify-content: left;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
 #padded {
     margin: 5%;
 }
@@ -38,9 +44,8 @@
   display: grid;
   place-items: center;
   background: #222;
-
   max-width: 100%;
-  padding: 1rem;
+  padding-top: 2rem;
   color: white;
   border-width: 1px;
   border-style: solid;
