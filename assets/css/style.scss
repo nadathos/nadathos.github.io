@@ -93,6 +93,19 @@ hr.fadinggrad {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), gold, rgba(0, 0, 0, 0));
 }
 
+footer {
+position: absolute;
+left: 0;
+bottom: 0;
+height: 1%;
+width: 100%;
+color:#FFFFFF;
+background: #222;
+font-size:0.8em;
+text-align: center;
+line-height:10px;
+}
+
 .img_center {
   float: right;
   width: 50%;

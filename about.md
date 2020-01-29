@@ -21,3 +21,6 @@ I find the video games industry fascinating also from a business standpoint. So 
 
 If you have any suggestions, questions or you want to chat over at discord, you can send me an email to: <oliver.idim@gmail.com>
 
+
+Colophon: this site is hosted on GitHub via Github Pages, it is written with Jekyll. All other content is my own unless otherwise specified.
+
