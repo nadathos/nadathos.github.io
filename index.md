@@ -7,7 +7,7 @@ permalink: /
 
 
 <h2 id="left"> Newest post: </h2>
-<div id="postbox">
+<div id="smaller">
 <ul style="list-style: none;">
   <li>
     {% for post in PostsByDate limit:1 %}
@@ -45,7 +45,7 @@ permalink: /
 </div>
 
 <h2 id="left"> Similar: </h2>
-<div style="padding-top:3%" id="smaller">
+<div id="smaller">
 <ul style="list-style: none;">
   <li>
     {% comment %}---> from https://stackoverflow.com/questions/25348389/jekyll-and-liquid-show-related-posts-by-amount-of-equal-tags-2 {% endcomment %}
@@ -75,7 +75,7 @@ permalink: /
       {% endfor %}
 
       {% if sameTagCount >= minCommonTags %}
-      <hr class="fadinggrad">
+      {% comment %} <hr class="fadinggrad"> {% endcomment %}
           <a style="display:block;" href="{{ post.url }}">
             <div>
               <div>
@@ -83,7 +83,7 @@ permalink: /
                 {%if post.excerpt%}
                   <p>{{post.excerpt}}</p>
                 {%endif%}
-                <p> Author: {{post.author}}, Published: {{post.date | date_to_long_string }}, Common Tags: {{commonTags}}</p>
+                <p> Author: {{post.author}}, Published: {{post.date | date_to_long_string }}, common tags: {{commonTags}}</p>
                 {% if post %}
                 <hr class="fadinggrad">
                 {% endif %}
@@ -100,15 +100,15 @@ permalink: /
       {% assign NumSimilarMissing =  maxRelated| plus: -maxRelatedCounter %}
       {%if NumSimilarMissing != 0%}
       {% for post in PostsByDate limit: NumSimilarMissing offset:1 %}
-      <hr class="fadinggrad">
+      {% comment %} <hr class="fadinggrad"> {% endcomment %}
           <a style="display:block;" href="{{ post.url }}">
-            <div>
+            <div id="left">
               <div>
                 <h2 style="color:gold">{{ post.title }}</h2>
                 {%if post.excerpt%}
                   <p>{{post.excerpt}}</p>
                 {%endif%}
-                <p> Author: {{post.author}}, most recent, Published: {{post.date | date_to_long_string }}</p>
+                <p> Author: {{post.author}}, Published: {{post.date | date_to_long_string }}, most recent</p>
                 {% if post %}
                 <hr class="fadinggrad">
                 {% endif %}
