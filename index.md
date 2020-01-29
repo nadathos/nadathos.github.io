@@ -38,11 +38,6 @@ permalink: /
 </ul>
 </div>
 
-<div class="relatedPosts">
-
-
-
-</div>
 
 <h2 id="left"> Similar: </h2>
 <div id="smaller_left">
@@ -76,7 +71,7 @@ permalink: /
       {% if sameTagCount >= minCommonTags %}
       {% comment %} <hr class="fadinggrad"> {% endcomment %}
           <a style="display:block;" href="{{ post.url }}">
-            <div>
+            <p>
                 <h2 style="color:gold">{{ post.title }}</h2>
                 {%if post.excerpt%}
                   <p>{{post.excerpt}}</p>
@@ -85,7 +80,7 @@ permalink: /
                 {% if post %}
                 <hr class="fadinggrad">
                 {% endif %}
-            </div>
+            </p>
           </a>
       {% endif %}
 
@@ -99,7 +94,7 @@ permalink: /
       {% for post in PostsByDate limit: NumSimilarMissing offset:1 %}
       {% comment %} <hr class="fadinggrad"> {% endcomment %}
           <a style="display:block;" href="{{ post.url }}">
-            <div>
+            <p>
                 <h2 style="color:gold">{{ post.title }}</h2>
                 {%if post.excerpt%}
                   <p>{{post.excerpt}}</p>
@@ -108,7 +103,7 @@ permalink: /
                 {% if post %}
                 <hr class="fadinggrad">
                 {% endif %}
-            </div>
+            </p>
           </a>
       {% endfor %}
       {% endif %}
