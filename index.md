@@ -93,8 +93,8 @@ permalink: /
       {% endif %}
       {% endfor %}
 
-      {% assign NumSimilarMissing =  maxRelated| plus: -maxRelatedCounter %}
-      {%if NumSimilarMissing != 0%}
+      {% assign NumSimilarMissing =  maxRelated| minus: maxRelatedCounter %}
+      {%if NumSimilarMissing >= 0 %}
       {% for post in PostsByDate limit: NumSimilarMissing offset:1 %}
       {% comment %} <hr class="fadinggrad"> {% endcomment %}
           <a style="display:block;" href="{{ post.url }}">
