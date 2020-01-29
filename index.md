@@ -12,7 +12,7 @@ permalink: /
 
 <div class="wrapper">
 <div>
-        <a style="display:block;" href="{{ post.url }}">
+        <a style="display:block;" href="{{ FirstPost.url }}">
           <p style="text-align:right; font-style:italic; font-size: 90%"></p>
           <div class="left">
           <br>
