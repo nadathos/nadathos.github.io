@@ -8,13 +8,15 @@ permalink: /rss/
         <title>{{ site.title | xml_escape }}</title>
         <description>{{ site.description | xml_escape }}</description>
         <link>{{ site.url }}{{ site.baseurl }}/</link>
-        <atom:link href="{{ "/feed.rbloggers.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+        <atom:link href="{{ "/feed.idimensional.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <generator>Jekyll v{{ jekyll.version }}</generator>
         {% comment %}--->  % for post in site.tags["R"] % indicate a tag here if you want to create feeds for different tags {% endcomment %}
         {% comment %}---> from here, and see their respective credit to Yongfu Liao https://www.r-bloggers.com/creating-an-rss-feed-to-add-your-jekyll-github-pages-blog-to-r-bloggers/ {% endcomment %}
         {% for post in site.tags %}
+        {% if post.title %}
+        {% if post.date %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
                 <author>oliver.idim@gmail.com (Oliver)</author>
@@ -29,6 +31,8 @@ permalink: /rss/
                 <category>{{ cat | xml_escape }}</category>
                 {% endfor %}
             </item>
+        {% endif %}
+        {% endif %}
         {% endfor %}
     </channel>
 </rss>
