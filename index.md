@@ -94,7 +94,6 @@ permalink: /
       {% for post in PostsByDate limit: NumSimilarMissing offset:1 %}
       {% comment %} <hr class="fadinggrad"> {% endcomment %}
           <a style="display:block;" href="{{ post.url }}">
-            <p>
                 <h2 style="color:gold">{{ post.title }}</h2>
                 {%if post.excerpt%}
                   <p>{{post.excerpt}}</p>
@@ -103,7 +102,6 @@ permalink: /
                 {% if post %}
                 <hr class="fadinggrad">
                 {% endif %}
-            </p>
           </a>
       {% endfor %}
       {% endif %}
