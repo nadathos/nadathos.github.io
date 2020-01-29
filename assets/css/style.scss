@@ -57,8 +57,16 @@
     ) 1 100%;
 }
 
+#smaller{
+-webkit-transform:scale(0.8);
+-moz-transform:scale(0.8);
+-ms-transform:scale(0.8);
+transform:scale(0.8);
+}
+
 hr.fadinggrad {
     border: 0;
     height: 1px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), gold, rgba(0, 0, 0, 0));
 }
+

@@ -44,20 +44,18 @@ permalink: /
 
 </div>
 
-<div style="padding-top:3%">
 <h2 id="left"> Similar: </h2>
+<div style="padding-top:3%" id="smaller">
 <ul style="list-style: none;">
   <li>
     {% comment %}---> from https://stackoverflow.com/questions/25348389/jekyll-and-liquid-show-related-posts-by-amount-of-equal-tags-2 {% endcomment %}
     {% comment %}---> the maximum number of related to posts
                       to be printed {% endcomment %}
     {% assign maxRelated = 3 %}
-
     {% comment %}---> the minimum number of common tags
                       to have for a post to be considered
                       as a related post {% endcomment %}
     {% assign minCommonTags =  1 %}
-
     {% assign maxRelatedCounter = 0 %}
 
     {% for post in PostsByDate offset:1 %}
