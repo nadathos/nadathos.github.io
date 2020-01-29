@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 permalink: /archive/
+title: "Archive"
 ---
 
 {% assign PostsByDate = site.posts %}

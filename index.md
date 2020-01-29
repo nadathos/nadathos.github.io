@@ -4,43 +4,46 @@ permalink: /
 ---
 
 {% assign PostsByDate = site.posts %}
+{% for post in PostsByDate limit:1 %}
+{% assign FirstPost = post %}
+{% endfor %}
+
+
 
 <div class="wrapper">
-<div id="smaller_left">
-<h2 id="padded" style="color:gold">New:</h2>
-<ul style="list-style: none;">
-  <li>
-    {% for post in PostsByDate limit:1 %}
-    <hr class="fadinggrad">
-    {% assign newest_post = post %}
-    {% assign newest_tags = post.tags%}
+<div>
         <a style="display:block;" href="{{ post.url }}">
+          <p style="text-align:right; font-style:italic; font-size: 90%"></p>
+          <div class="left">
+          <br>
+          <h2>Most recent: {{FirstPost.title}}</h2>
+          <br>
+          <hr class="fadinggrad">
+          </div>
           <div>
             <div>
-              {% if post.thumbnail %}
-              <img src="{{ post.thumbnail }}" />
+              {% if FirstPost.thumbnail %}
+              <img src="{{ FirstPost.thumbnail }}" />
               {% else %}
               <img src="assets/images/thumb.png" />
               {% endif %}
             </div>
             <div>
-              <h2 style="color:gold">{{ post.title }}</h2>
-              {%if post.excerpt%}
-                <p>{{post.excerpt}}</p>
+              {%if FirstPost.excerpt%}
+                <p>{{FirstPost.excerpt}}</p>
+                <p> . . . </p>
               {%endif%}
-              <p> Author: {{post.author}}, Tags: {% for tag in post.tags limit: 3 %} {{tag}}{% endfor %} Published: {{post.date | date_to_long_string }}</p>
+              <p> Author: {{FirstPost.author}}, Tags: {% for tag in FirstPost.tags limit: 3 %} {{tag}}{% endfor %} Published: {{FirstPost.date | date_to_long_string }}</p>
               <hr class="fadinggrad">
             </div>
           </div>
         </a>
-    {% endfor %}
-  </li>
-</ul>
 </div>
 
 
-<div id="smaller_left">
-  <h2 id="padded" style="color:gold">Similar:</h2>
+<br>
+<h2 style="font-size: 100%" id="padded">Similar:</h2>
+<div class="smaller_left">
   <hr class="fadinggrad">
   <ul style="list-style: none;">
     <li>
