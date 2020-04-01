@@ -12,10 +12,10 @@ permalink: /:title/
 ## Motivation
 
 I have been working on an electronic music album for about a year now. Originally I wanted to create music
-for a video game we're developing with V-NA on their Veganeko project in our free time.
+for a video game we're developing with V-NA on their Veganeko project in our free time
 <!--more-->
 <!-- put this at the end of what we wish to have as an excerpt -->
-([Check out their instagram!](https://www.instagram.com/veganekoweirdo/))
+([Check out their instagram!](https://www.instagram.com/veganekoweirdo/)).
 Composing this music was so much fun that I decided to make a short EP out of it.
 
 It is a very personal project and some of the music I used has been on my mind for over 5 years. The whole tone of it is
