@@ -54,3 +54,8 @@ that allow anybody to widen their potential impact on the world, that's a good t
 I know of, this hasn't happened. There are referenes to war, old religious themes, outdated political ideas, kind of arbitrarily skewed portrayals
 of the history of art and science, mostly nationalist mythology and ideas about what public space should be, which have been developed 150, 200 years
 ago. For me, this project is meant to be a place, where I can experiment with these kinds of thoughts.
+
+
+## Credits
+
+List of people who helped me with certain parts
