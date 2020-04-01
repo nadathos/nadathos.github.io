@@ -2,7 +2,7 @@
 layout: post
 author: Riesenradler
 title: "First Album!"
-thumbnail: /assets/album_cover.png
+thumbnail: /assets/images/album_cover.png
 categories: [project, music, electronic, album]
 tags: [project, music, electronic, album]
 date: '2020-04-02'
@@ -25,5 +25,5 @@ I tried to express the point of view of somebody who was profoundly influenced b
 for an adequate description of contemporary existence. In musical terms, I try to reconcile classical structure and development with electronic sounds,
 my idols from the past with my hopes for the future.
 
-You will be able to find the album on bandcamp (here)[] and later on I plan to do some music videos over at (youtube)[https://www.youtube.com/channel/UCkyf5Jj3E-74nGi9W7a3xmQ].
+You will be able to find the album on bandcamp [here]() and later on I plan to do some music videos over at [youtube](https://www.youtube.com/channel/UCkyf5Jj3E-74nGi9W7a3xmQ).
 

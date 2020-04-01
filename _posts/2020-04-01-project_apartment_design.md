@@ -1,13 +1,13 @@
-  ---
-  layout: post
-  author: Riesenradler
-  title: "Design of my ideal appartment"
-  thumbnail: /assets/ideal_apartment.png
-  categories: [project, video_games, studio, design, interior_design]
-  tags: [project, video_games, studio, design, interior_design]
-  date: '2020-04-01'
-  permalink: /:title/
-  ---
+---
+layout: post
+author: Riesenradler
+title: "Design of my ideal appartment"
+thumbnail: /assets/images/ideal_apartment.png
+categories: [project, video_games, studio, design, interior_design]
+tags: [project, video_games, studio, design, interior_design]
+date: '2020-04-01'
+permalink: /:title/
+---
 
 ## Motivation
 
@@ -42,6 +42,8 @@ have been commuting through them daily.
 Computers being the backbone of modern society and video games being the most natural artform on this medium, I think that they have front row seats
 to observe the most important developments of contemporary life, and their commentary is knowledgeable and important. It is time to talk about some
 purely virtual work, as we talk about traditional painters, architects or designers.
+
+## Aesthetic
 
 Specifically, I have been impressed by the aesthetic of Deus Ex: Human Revolution, because it was able to blend a contemporary digital aesthetic
 into a very old and traditional setting, the city of Prague. A world like that, even though in turmoil in the game's world, is one that has
