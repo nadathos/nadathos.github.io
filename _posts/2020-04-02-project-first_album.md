@@ -12,7 +12,7 @@ permalink: /:title/
 ## Motivation
 
 I have been working on an electronic music album for about a year now. Originally I wanted to create music
-for a video game we're developing with (Veganeko)[instagram.com/veganekoweirdo/] in our free time.
+for a video game we're developing with [Veganeko](instagram.com/veganekoweirdo/) in our free time.
 
 <!--more-->
 <!-- put this at the end of what we wish to have as an excerpt -->
