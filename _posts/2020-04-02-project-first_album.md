@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Riesenradler
-title: "First Album!"
+title: "Project: First Album!"
 thumbnail: /assets/images/album_cover.png
 categories: [project, music, electronic, album]
 tags: [project, music, electronic, album]
