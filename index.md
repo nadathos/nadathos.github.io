@@ -41,9 +41,9 @@ permalink: /
 </div>
 
 
+<div>
 <br>
 <h2 style="font-size: 100%" id="padded">Similar:</h2>
-<div">
   <hr class="fadinggrad">
   <ul style="list-style: none;">
     <li>
