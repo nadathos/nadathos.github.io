@@ -15,7 +15,7 @@ I have been working on an electronic music album for about a year now. Originall
 for a video game we're developing with Veganeko in our free time.
 <!--more-->
 <!-- put this at the end of what we wish to have as an excerpt -->
-[Check out their instagram!](instagram.com/veganekoweirdo/) As that is taking longer than expected however and
+[Check out their instagram!](https://www.instagram.com/veganekoweirdo/) As that is taking longer than expected however and
 I vowed to myself that this year would be one of FINISHED projects, I decided to work the music into songs
 that can stand on their own and publish it as an EP.
 
