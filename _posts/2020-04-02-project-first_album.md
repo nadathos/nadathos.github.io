@@ -1,8 +1,8 @@
 ---
 layout: post
-author: Oliver
+author: Riesenradler
 title: "First Album!"
-thumbnail: album_cover.png
+thumbnail: /assets/album_cover.png
 categories: [project, music, electronic, album]
 tags: [project, music, electronic, album]
 date: '2020-04-02'
