@@ -9,12 +9,13 @@ date: '2020-04-01'
 permalink: /:title/
 ---
 
-## Motivation
+
 
 One of the projects I wanted to get going this year, is the design of my ideal appartment.
 
 <!--more-->
 <!-- put this at the end of what we wish to have as an excerpt -->
+## Motivation
 
 In order to do that, I have to learn more about technologies, that I have been wanting to get into for a long time,
 like 3D modelling, real time graphics, shader programming and also the process of creating an interesting shape around
