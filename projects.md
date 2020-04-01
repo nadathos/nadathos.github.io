@@ -9,7 +9,7 @@ ProjectTag: "project"
 <ul style="list-style: none;">
   <li>
     {% for post in site.posts %}
-        {% if post.categories contains ProjectTag %}
+        {% if post.categories contains "project" %}
             <a style="display:block;" href="{{ post.url }}">
               <div>
                 <div>

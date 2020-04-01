@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Riesenradler
-title: "Design of my ideal appartment"
+title: "Design of my ideal apartment"
 thumbnail: /assets/images/ideal_apartment.png
 categories: [project, video_games, studio, design, interior_design]
 tags: [project, video_games, studio, design, interior_design]
