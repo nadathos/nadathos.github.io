@@ -8,13 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : i-Dimensional
-tagline: Games and General Culture
+title : Riesenradler
+tagline: Games, Music and Design
 author :
-  name : Oliver
-  email : oliver.idim@gmail.com
+  name : Riesenradler
+  email : riesenradler@gmail.com
   github : nadathos
-  twitter : i-dimensional
+  twitter : riesenradler
   feedburner : I-dimensional
 
 # The production_url is only used when full-domain names are needed

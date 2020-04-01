@@ -2,16 +2,13 @@
   layout: post
   author: Riesenradler
   title: "Design of my ideal appartment"
-  thumbnail:
+  thumbnail: ideal_apartment.png
   categories: [project, video games, studio, design, interior design]
   tags: [project, video games, studio, design, interior design]
   date: '2020-04-01'
   permalink: /:title/
 
   ---
-
-
- CONTENT
 
 ## Motivation
 
