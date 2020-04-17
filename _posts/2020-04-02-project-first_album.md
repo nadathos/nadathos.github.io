@@ -32,11 +32,9 @@ You will be able to find the album on [bandcamp](https://riesenradler.bandcamp.c
 
 Concept, Composition and Mix by Riesenradler
 
-Mastering on Metropolis, With Calatravan Wings, Rondelle de la Fourme d'Ambert and Tgv à l'heure by Emrah Celik
-
-Mastering on Sorry, but I lost my Greencard by Austin ...
-
-Mastering on Heartbeat Turbulence, Dératisation, bonjour, Mars and Beyond by Stella Gotshtein!
+<p>Mastering on Metropolis, With Calatravan Wings, Rondelle de la Fourme d'Ambert and Tgv à l'heure by Emrah Celik</p>
+<p>Mastering on Sorry, but I lost my Greencard by Austin Leeds </p>
+<p>Mastering on Heartbeat Turbulence, Dératisation, bonjour, Mars and Beyond by Stella Gotshtein! </p>
 
 Album Cover Image by V-NA
 Album Cover and Title Design by Ariane Halbauer
