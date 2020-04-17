@@ -31,8 +31,7 @@ You will be able to find the album on [bandcamp](https://riesenradler.bandcamp.c
 ## Credits:
 
 Concept, Composition and Mix by Riesenradler
-
-<p>Mastering by Emrah Celik, Stella Gotshtein and Austin Leeds
+<p>Mastering by Emrah Celik, Stella Gotshtein and Austin Leeds</p>
 
 Album Cover Image by V-NA
 Album Cover and Title Design by Ariane Halbauer
