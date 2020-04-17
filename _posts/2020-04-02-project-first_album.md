@@ -2,7 +2,7 @@
 layout: post
 author: Riesenradler
 title: "Project: First Album!"
-thumbnail: /assets/images/album_cover.png
+thumbnail: /assets/images/album_cover.jpg
 categories: [project, music, electronic, album]
 tags: [project, music, electronic, album]
 date: '2020-04-02'
@@ -25,9 +25,15 @@ In musical terms, I try to reconcile classical structure and development with el
 
 ## Links
 
-You will be able to find the album on bandcamp [here]() and later on I plan to do some music videos over at [youtube](https://www.youtube.com/channel/UCkyf5Jj3E-74nGi9W7a3xmQ).
+You will be able to find the album on [bandcamp](https://riesenradler.bandcamp.com) and later on I plan to do some music videos over at [youtube](https://www.youtube.com/channel/UCkyf5Jj3E-74nGi9W7a3xmQ).
 
 
 ## Credits:
 
-List of people who helped me getting the album out there
+Concept, Composition and Mix by Riesenradler
+Mastering on Metropolis, With Calatravan Wings, Rondelle de la Fourme d'Ambert and Tgv à l'heure by Emrah Celik
+Mastering on Sorry, but I lost my Greencard by Austin ...
+Mastering on Heartbeat Turbulence, Dératisation, bonjour, Mars and Beyond by Stella Gotshtein!
+
+Album Cover Image by V-NA
+Album Cover and Title Design by Ariane Halbauer
