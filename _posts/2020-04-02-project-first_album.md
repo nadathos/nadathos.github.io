@@ -34,4 +34,3 @@ Concept, Composition and Mix by Riesenradler
 <p>Mastering by Emrah Celik, Stella Gotshtein and Austin Leeds</p>
 
 Album Cover Image by V-NA
-<p>Album Cover and Title Design by Ariane Halbauer</p>
