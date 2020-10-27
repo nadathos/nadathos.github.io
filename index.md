@@ -8,7 +8,7 @@ permalink: /
 {% assign FirstPost = post %}
 {% endfor %}
 
-<div class="wrapper">
+
   <div>
         <p style="text-align:right; font-style:italic; font-size: 90%"></p>
         <div class="left">
@@ -39,4 +39,4 @@ permalink: /
         <br>
           {% endfor %}
   </div>
-</div>
+
