@@ -3,7 +3,7 @@ layout: post
 author: Riesenradler
 title: "Video Game: Veganeko Weirdo"
 thumbnail: /assets/images/veganeko.png
-categories: [project, game, 2020]
+categories: [project, game, 2020, collab]
 tags: [project, game, 2020, platformer, rhythm, reflex, tetrislike]
 date: '2020-10-28'
 permalink: /:title/
