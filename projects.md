@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /projects/
-title: Projects
+permalink: /music/
+title: Music
 ProjectTag: "project"
 ---
 
