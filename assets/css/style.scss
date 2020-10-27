@@ -5,8 +5,6 @@
 
 .mywrapper wrapper {
     margin: 0;
-    flex-wrap: wrap;
-    display: flex;
 }
 
 #navi {
@@ -18,7 +16,6 @@
     text-decoration: none;
 
     margin-top: 1%;
-    flex: 0 0 100%;
     display: inline;
     justify-content: center;
 }

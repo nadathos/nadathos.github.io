@@ -10,7 +10,7 @@ permalink: /
 
 <div class="wrapper">
 <div>
-        <a style="display:block;" href="{{site.url}}{{ FirstPost.url }}">
+        <a style="display:block;" href="{{site.url}}{{ post.url }}">
           <p style="text-align:right; font-style:italic; font-size: 90%"></p>
           <div class="left">
           <br>
@@ -36,6 +36,9 @@ permalink: /
             {% endfor %}
           </div>
         </a>
+        <br>
+        <br>
+
 </div>
 
 
