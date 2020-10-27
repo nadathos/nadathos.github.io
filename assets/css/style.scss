@@ -188,3 +188,13 @@ line-height:10px;
   background-image: -o-linear-gradient(top, #404040, #2a2a2a);
   background-image: linear-gradient(to bottom, #404040, #2a2a2a);
 }
+
+a big {
+  color:#3c659b;
+  font-weight:400;
+  text-decoration:none;
+
+  &:hover {
+    color: #e8e8e8;
+  }
+}
