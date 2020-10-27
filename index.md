@@ -13,6 +13,7 @@ permalink: /
         <p style="text-align:right; font-style:italic; font-size: 90%"></p>
         <div class="left">
         <br>
+        <br>
         <hr class="fadinggrad">
         </div>
         {% for post in PostsByDate%}
@@ -31,7 +32,7 @@ permalink: /
                 <p>{{post.excerpt}}</p>
                 <p> . . . </p>
               {%endif%}
-              <p> Author: {{post.author}}, Tags: {% for tag in post.tags limit: 3 %} {{tag}}{% endfor %} Published: {{post.date | date_to_long_string }}</p>
+              <p> Tags: {% for tag in post.tags limit: 3 %} {{tag}}{% endfor %} Published: {{post.date | date_to_long_string }}</p>
               <hr class="fadinggrad">
           </div>
         </a>
