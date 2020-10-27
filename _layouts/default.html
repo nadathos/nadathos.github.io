@@ -25,7 +25,13 @@
           <div> <a href="/"></script}}"><h1 style="font-size: 400%"> {{ site.title | default: site.github.repository_name }}</h1> </a></div>
           <!-- <h1> {{ site.title | default: site.github.repository_name }}</h1> -->
           <p> musician, writer, gamedev </p>
-          <li id="navi"><h3><a href="/about/"></script}}">|About|</a> <li id="navi"><h3><a href="/contacts/"></script}}">|Contacts|</a> <a href="/music/">|Music|</a> <a href="/rss/">|RSS|</a> <a href="/archive/">|Archive|</a></h3></li>
+          <ul id="navi">
+              <li><a href="/about/"></script}}">|About|</a></li>
+              <li><a href="/contacts/"></script}}">|Contacts|</a></li>
+              <li><a href="/music/">|Music|</a> </li>
+              <li><a href="/rss/">|RSS|</a></li>
+              <li><a href="/archive/">|Archive|</a></li>
+          </ul>
         </div>
 
         {{ content }}
