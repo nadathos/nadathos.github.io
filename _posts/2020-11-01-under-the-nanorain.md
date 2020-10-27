@@ -29,5 +29,5 @@ You will be able to find the album on [bandcamp](https://riesenradler.bandcamp.c
 
 Concept, Story, Composition, Mix by Riesenradler
 <p>Mastering by <a href="https://soundbetter.com/profiles/195490-rudi-dittmann%7Cruhrtone-studios>Rudi Dittmann"> Rudi Dittmann</a> and <a href="https://soundbetter.com/profiles/70159-alex-@-a-cut-above-london"> Alex @ A Cut Above London</a>
-
+<br>
 Album Cover Image by <a href="https://www.instagram.com/veganekoweirdo/"> @veganekoweirdo</a>
