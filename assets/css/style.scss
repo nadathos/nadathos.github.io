@@ -38,6 +38,16 @@ li a {
   list-style-type: none;
 }
 
+.navitem {
+  background-color: #d6315d;
+  height: 50px;
+  width: 150px;
+  margin: 5px;
+  text-align: center;
+  line-height: 45px;
+  font-weight: 600;
+}
+
 #left {
   justify-content: left;
   padding-top: 1%;
