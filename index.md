@@ -18,7 +18,7 @@ permalink: /
         {% for post in PostsByDate%}
         <a style="display:block;" href="{{site.url}}{{ post.url }}">
           <div>
-            <h1>{{post.headline}}</h1>
+            <h1>{{post.title}}</h1>
               {% if post.thumbnail %}
               <img src="{{ post.thumbnail }}" />
               {% else %}

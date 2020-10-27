@@ -1,13 +1,12 @@
 ---
 layout: post
 author: Riesenradler
-title: "New Album: Under The Nanorain!"
+title: "New album: Under The Nanorain"
 thumbnail: /assets/images/album_cover2.jpg
 categories: [project, music, electronic, album]
 tags: [project, music, electronic, album, synthwave, cyberpunk, piano]
 date: '2020-11-01'
 permalink: /:title/
-headline:"New album: Under The Nanorain"
 ---
 
 New album: Under The Nanorain
@@ -29,6 +28,6 @@ You will be able to find the album on [bandcamp](https://riesenradler.bandcamp.c
 ## Credits:
 
 Concept, Story, Composition, Mix by Riesenradler
-<p>Mastering by [Rudi Dittmann](https://soundbetter.com/profiles/195490-rudi-dittmann%7Cruhrtone-studios) and  [Alex @ A Cut Above London](https://soundbetter.com/profiles/70159-alex-@-a-cut-above-london)</p>
+<p>Mastering by [Rudi_Dittmann](https://soundbetter.com/profiles/195490-rudi-dittmann%7Cruhrtone-studios) and  [Alex @ A Cut Above London](https://soundbetter.com/profiles/70159-alex-@-a-cut-above-london)</p>
 
 Album Cover Image by [@veganekoweirdo](https://www.instagram.com/veganekoweirdo/)

@@ -1,13 +1,12 @@
 ---
 layout: post
 author: Riesenradler
-title: "Project: First Album!"
+title: "New album: Dimsum & Jetlag"
 thumbnail: /assets/images/album_cover.jpg
 categories: [project, music, electronic, album]
 tags: [project, music, electronic, album]
 date: '2020-04-02'
 permalink: /:title/
-headline:"New album: Dimsum & Jetlag"
 ---
 
 New album: Dimsum & Jetlag
