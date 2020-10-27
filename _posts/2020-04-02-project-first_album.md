@@ -11,13 +11,13 @@ permalink: /:title/
 
 New album: Dimsum & Jetlag
 
-I have been working on an electronic music album for about a year now. Originally I wanted to create music
-for a video game we're developing with V-NA on their Veganeko project in our free time
+I have been working on an electronic music album for about a year now.
 
     style: experimental electronic, synthwave, upbeat, piano, violin
 
 <!--more-->
 <!-- put this at the end of what we wish to have as an excerpt -->
+Originally I wanted to create music for a video game we're developing with V-NA on their Veganeko project in our free time
 ([Check out their instagram!](https://www.instagram.com/veganekoweirdo/)).
 Composing this music was so much fun that I decided to make a short EP out of it.
 

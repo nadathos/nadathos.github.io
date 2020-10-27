@@ -27,4 +27,9 @@ image:
           Soundcloud
           <br>
         </a>
+        <a class="button button_contact" style="display:block;" href="https://open.spotify.com/artist/1hc0HSZGcnjLshrrsnDltT?si=JeZPg5-GTY2uZ6f5Qx_Y6Q">
+          Spotify
+          <br>
+        </a>
+
 </div>
