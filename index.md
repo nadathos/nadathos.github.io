@@ -39,7 +39,7 @@ permalink: /
 </div>
 
 
-<div>
+<!-- <div>
 <br>
 <br>
 <br>
@@ -56,7 +56,13 @@ permalink: /
                       to have for a post to be considered
                       as a related post {% endcomment %}
     {% assign minCommonTags =  1 %}
-    {% assign maxRelatedCounter = 0 %}
+    {% assign maxRelatedCounter = 0 %} -->
+
+
+
+
+
+
 
     {% for post in PostsByDate offset:1 %}
       {% assign sameTagCount = 0 %}
@@ -110,7 +116,13 @@ permalink: /
       {% endfor %}
       {% endif %}
     </li>
+
+
+
+
+    <!--
   </ul>
   <hr class="fadinggrad">
 </div>
 </div>
+ -->
