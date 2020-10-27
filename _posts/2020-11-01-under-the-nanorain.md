@@ -9,8 +9,6 @@ date: '2020-11-01'
 permalink: /:title/
 ---
 
-New album: Under The Nanorain
-
 Imagine living above the clouds in a city grown story upon story into the future.
 The lower parts still have the layout of an old european town, historistic facades, gothic cathedral, the odd sturdy merchant house from the middle ages but reinforced with polymer and metal, as their primary role is to serve as foundation for the new life above. Elegant skyscrapers grow thousands of meters into the air, the highest of them disappearing far into the clouds and beyond.
 Up there islands of beautiful pillars can be seen in every direction, airborne traffic commuting between them. A man has to chose between a quiet, happy life with his family and a life full of sacrifices to contribute something great in an era, where technological wonders happen all the time, The Nanorain.

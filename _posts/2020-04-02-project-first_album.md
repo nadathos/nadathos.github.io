@@ -9,8 +9,6 @@ date: '2020-04-02'
 permalink: /:title/
 ---
 
-New album: Dimsum & Jetlag
-
 I have been working on an electronic music album for about a year now.
 
     style: experimental electronic, synthwave, upbeat, piano, violin
