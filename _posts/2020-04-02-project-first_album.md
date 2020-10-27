@@ -7,9 +7,10 @@ categories: [project, music, electronic, album]
 tags: [project, music, electronic, album]
 date: '2020-04-02'
 permalink: /:title/
+headline:"New album: Dimsum & Jetlag"
 ---
 
-<h1>New album: Dimsum & Jetlag</h1>
+New album: Dimsum & Jetlag
 
 I have been working on an electronic music album for about a year now. Originally I wanted to create music
 for a video game we're developing with V-NA on their Veganeko project in our free time
