@@ -8,8 +8,6 @@ permalink: /
 {% assign FirstPost = post %}
 {% endfor %}
 
-
-
 <div class="wrapper">
 <div>
         <a style="display:block;" href="{{site.url}}{{ FirstPost.url }}">

@@ -5,17 +5,11 @@ title: "About"
 image:
 ---
 
-![MyImage]({{site.url}}/assets/images/autoportrait.png){:class="img_center"}
+![MyImage]({{site.url}}/assets/images/autoportrait.jpg){:class="img_center"}
 
-Riesenradler is a composer, programmer, writer and designer currently residing in France.
+Riesenradler is an Austrian musician and video game developer.
+Born in Vienna, classical music has been a huge influence early on but it was the discovery of the possibilities of electronic music, that led to his own style between classical composition and futuristic synthesized soundscapes.
+He has been living an international life since moving to France a couple of years back, heavily interested in languages, science and technology. which also represent the recurring themes of his music: the idea of a world without cultural barriers and our place in a rapidly changing but exciting present and future.
 
-This blog should become a collection of personal thoughts, a kind of research journal for content, that cannot be adequately represented on your typical social media site.
-
-In addition to presenting the background of personal projects, I'm also heavily interested in both traditional fine art and digital art / video games and have always wondered
-why the astounding artistic work done in purely virtual form gains so little attention. I want to write about the most modern art forms and generally bring these two worlds closer together.
-
-If you have any suggestions, questions or you want to chat over at discord, you can send me an email to: <riesenradler@gmail.com>
-
-
-Colophon: this site is hosted on GitHub via Github Pages, it is written with Jekyll. All other content is my own unless otherwise specified.
+Riesenradler released his debut album "Dimsum & Jetlag" in April 2020 and is currently looking to publish his second "Under The Nanorain" on November 1st 2020.
 
