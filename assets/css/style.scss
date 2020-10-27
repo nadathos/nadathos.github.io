@@ -4,6 +4,15 @@
 /* @import "jekyll-theme-midnight"; */
 @import ""
 
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  color: ##3c659b;
+  background-color: #262528;
+}
+
 .mywrapper wrapper {
     margin: 0;
     color: #3c659b;
