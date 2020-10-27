@@ -10,6 +10,9 @@ permalink: /:title/
 ---
 
 Together with @VeganekoWeirdo, we made a small video game about a cat that always falls on its feet.
+
+    style: dexterity, reflex, tetris like
+
 <!--more-->
 <!-- put this at the end of what we wish to have as an excerpt -->
 It was an amazing experience! We used Unreal Engine 4 and learned basically everything from scratch. I would
