@@ -16,7 +16,7 @@ permalink: /
         <hr class="fadinggrad">
         </div>
         {% for post in PostsByDate%}
-        <a style="display:block;" href="{{site.url}}{{ post.url }}">
+        <a big style="display:block;" href="{{site.url}}{{ post.url }}">
           <div>
             <h2>{{post.title}}</h2>
             <br>
