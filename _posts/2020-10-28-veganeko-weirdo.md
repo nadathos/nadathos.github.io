@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Riesenradler
-title: "New album: Under The Nanorain"
+title: "Video Game: Veganeko Weirdo"
 thumbnail: /assets/images/veganeko.png
 categories: [project, game, 2020]
 tags: [project, game, 2020, platformer, rhythm, reflex, tetrislike]
