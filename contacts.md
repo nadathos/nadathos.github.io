@@ -35,4 +35,10 @@ image:
           Itch.io
           <br>
         </a>
+        <br>
+        <br>
+        <a class="button button_contact" style="display:block;" href="office.riesenradler@gmail.com">
+          Email
+          <br>
+        </a>
 </div>
