@@ -20,7 +20,7 @@ Up there islands of beautiful pillars can be seen in every direction, airborne t
 
 ## Links
 
-You will be able to find the album on [bandcamp](https://riesenradler.bandcamp.com), youtube [youtube](https://www.youtube.com/channel/UCkyf5Jj3E-74nGi9W7a3xmQ) and all major streaming sites starting November 1st 2020!
+You will be able to find the album on [bandcamp](https://riesenradler.bandcamp.com), [youtube](https://www.youtube.com/channel/UCkyf5Jj3E-74nGi9W7a3xmQ) and all major streaming sites starting November 1st 2020!
 
 
 ## Credits:
