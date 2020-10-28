@@ -37,7 +37,7 @@ image:
         </a>
         <br>
         <br>
-        <a class="button button_contact" style="display:block;" href="office.riesenradler@gmail.com">
+        <a class="button button_contact" style="display:block;" href="mailto: office.riesenradler@gmail.com">
           Email
           <br>
         </a>
