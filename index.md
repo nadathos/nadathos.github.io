@@ -17,7 +17,8 @@ permalink: /
         <hr class="fadinggrad">
         </div>
         {% for post in PostsByDate%}
-        <a big style="display:block;" href="{{site.url}}{{ post.url }}">
+        <a style="display:block;" href="{{site.url}}{{ post.url }}">
+          <big>
           <div>
             <h2>{{post.title}}</h2>
             <br>
@@ -35,6 +36,7 @@ permalink: /
               <p> Tags: {% for tag in post.tags limit: 3 %} {{tag}}{% endfor %} Published: {{post.date | date_to_long_string }}</p>
               <hr class="fadinggrad">
           </div>
+          </big>
         </a>
         <br>
         <br>
