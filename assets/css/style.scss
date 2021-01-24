@@ -4,7 +4,7 @@
 @import "jekyll-theme-midnight";
 
 .mywrapper {
-   flex: 1;
+   height: 100%;
 }
 
 .riesenradler_main #title {
@@ -130,6 +130,7 @@ color:#FFFFFF;
 background: #222;
 font-size:0.5em;
 text-align: center;
+align-items: center;
 line-height:10px;
 opacity: 0.80;
 
