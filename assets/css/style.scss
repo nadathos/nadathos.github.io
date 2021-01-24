@@ -4,7 +4,7 @@
 @import "jekyll-theme-midnight";
 
 .mywrapper wrapper {
-   flex: 1 0 auto;
+   flex: 1;
 }
 
 .riesenradler_main #title {
@@ -13,6 +13,12 @@
 
 .riesenradler_second {
 
+}
+
+. mybody {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 .nav {
