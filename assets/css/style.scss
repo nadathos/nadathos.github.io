@@ -119,8 +119,6 @@ hr.fadinggrad {
 
 footer {
 position: fixed;
-left: 0;
-bottom: 0;
 width: 100%;
 
 color:#FFFFFF;
@@ -128,6 +126,9 @@ background: #222;
 font-size:0.8em;
 text-align: center;
 line-height:10px;
+
+margin: auto auto 0 auto;
+
 }
 
 .footerold footer {
