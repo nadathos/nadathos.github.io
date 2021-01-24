@@ -7,6 +7,11 @@
    margin: 0 auto;
 }
 
+.myfooterwrapper {
+  display: flex;
+  justify-content: center;
+}
+
 .riesenradler_main #title {
   color: #3c659b;
 }
@@ -35,11 +40,7 @@
 }
 
 .footernav {
-  display: flex;
-  flex: 0 0 auto;
-  margin: 1em;
 
-  justify-content: space-between;
 }
 
 .navitem {
@@ -137,6 +138,10 @@ align-items: center;
 line-height:10px;
 opacity: 0.80;
 
+flex: 0 0 auto;
+display: flex;
+margin: 1em;
+justify-content: space-between;
 
 }
 
