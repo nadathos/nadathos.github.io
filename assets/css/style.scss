@@ -42,6 +42,7 @@
 
 .footernav {
 margin:1em;
+justify-content: center;
 }
 
 .navitem {
@@ -128,14 +129,9 @@ hr.fadinggrad {
 }
 
 footer {
-flex: 0 0 auto;
-display: flex;
-
 color:#FFFFFF;
 background: #222;
 font-size:0.5em;
-text-align: center;
-align-items: center;
 line-height:10px;
 opacity: 0.80;
 
