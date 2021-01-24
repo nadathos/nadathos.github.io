@@ -54,6 +54,13 @@ justify-content: center;
   font-weight: 600;
 }
 
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
+
 #left {
   justify-content: left;
   padding-top: 1%;
