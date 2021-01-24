@@ -41,7 +41,7 @@ image:
           Email
           <br>
         </a>
-        <iframe scrolling="no" style="border: 0;width: 100%;height: 33px;" src="https://bandcamp.com/band_follow_button_classic/2049235583"></iframe>
+        <iframe scrolling="no" class="button button_contact" style="border: 0;width: 100%;height: 33px;" src="https://bandcamp.com/band_follow_button_classic/2049235583"></iframe>
         <br>
 </div>
 
