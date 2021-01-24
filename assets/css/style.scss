@@ -15,7 +15,7 @@
 
 }
 
-. mybody {
+.mybody {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -117,7 +117,7 @@ hr.fadinggrad {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), gold, rgba(0, 0, 0, 0));
 }
 
-footer_old {
+footer {
 position: absolute;
 left: 0;
 bottom: 0;
@@ -130,9 +130,6 @@ text-align: center;
 line-height:10px;
 }
 
-footer .floatingfooter {
-flex-shrink: 0;
-}
 
 
 .img_center {
