@@ -198,3 +198,11 @@ a biglink {
     color: #e8e8e8;
   }
 }
+
+.floating_footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+}
