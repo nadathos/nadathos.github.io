@@ -4,8 +4,7 @@
 @import "jekyll-theme-midnight";
 
 .mywrapper wrapper {
-    margin: 0;
-    color: #3c659b;
+   flex: 1 0 auto;
 }
 
 .riesenradler_main #title {
@@ -112,7 +111,7 @@ hr.fadinggrad {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), gold, rgba(0, 0, 0, 0));
 }
 
-footer {
+footer_old {
 position: absolute;
 left: 0;
 bottom: 0;
@@ -125,7 +124,7 @@ text-align: center;
 line-height:10px;
 }
 
-footer_old {
+footer {
 flex-shrink: 0;
 }
 
