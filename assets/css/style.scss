@@ -128,6 +128,23 @@ hr.fadinggrad {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), gold, rgba(0, 0, 0, 0));
 }
 
+.footerdiv {
+color:#FFFFFF;
+background: #222;
+font-size:0.5em;
+line-height:10px;
+opacity: 0.80;
+
+flex: 0 0 auto;
+display: flex;
+margin: 1em;
+justify-content: space-between;
+
+// margin: auto auto 0 auto;
+flex-shrink: 0;
+
+}
+
 footer {
 color:#FFFFFF;
 background: #222;
@@ -137,13 +154,13 @@ opacity: 0.80;
 
 flex: 0 0 auto;
 display: flex;
+margin: 1em;
 justify-content: space-between;
 
-margin: auto auto 0 auto;
+// margin: auto auto 0 auto;
 flex-shrink: 0;
 
 }
-
 
 .img_center {
   float: right;
