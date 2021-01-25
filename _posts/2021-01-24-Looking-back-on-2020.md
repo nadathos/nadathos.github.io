@@ -41,6 +41,7 @@ during the project, especially the use of a real time engine and how to adapt ar
 in 2021.
 
 
+
 ## New Discoveries
 
 One last aspect of actually taking the leap and publishing my music that I did not expect at all and might be the most enriching, is that while showing myself as a musician on social media, I actually
@@ -55,6 +56,7 @@ I have particularly enjoyed the work of these musicians:
 - [Polarity](https://www.youtube.com/user/polaritydnb) electronic music powerhouse, great educator
 - [Hainbach](https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g) analogue electronic gear wizard, great communicator
 - [Yhiira](https://www.youtube.com/channel/UCztAeIf3W6bMeSHEAqJl_eg) promising cinematic composer
+
 
 
 ## Outlook
