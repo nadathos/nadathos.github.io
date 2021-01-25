@@ -64,7 +64,7 @@ I have particularly enjoyed the work of these musicians:
 To close off this review, a little look-ahead to my projects for 2021. I am currently working on an electronic album featuring the voice of the hugely talented <a href="https://www.instagram.com/veganekoweirdo/">Veganeko Weirdo</a> . It will be a quite
 critical take on our current, isolated, internet dependent society. Later this year I have another album planned, which might be based on some of my old sci-fi stories and would like to build up more
 visual interpretations of my music and create music videos.
-I want to bring up the numbers to at double and provide some more direct means to interact with my audience.
+I want to bring up my listeners to double the current peak amount and provide some more direct means to interact with my audience.
 
 Thank you all for listening and I hope you will enjoy what's coming next!
 
