@@ -16,7 +16,9 @@ permalink: /:title/
 <!--more-->
 <!-- put this at the end of what we wish to have as an excerpt -->
 
-To start my musical journey in such a turublent year was quite something but all in all it played in my favor because I had more time to work on my music and develop personal skills.
+## Milestones and thoughts
+
+To start my musical journey in such a wild year was quite something but all in all it played in my favor because I had more time to work on my music and develop personal skills.
 I want to make a habit of reminiscing at the start of each year about what happened in the last, to see what I have achieved and formulate my wishes for the near future.
 
 In April 2020, I released my debut album [Dimsum&Jetlag](https://riesenradler.bandcamp.com/album/dimsum-jetlag). This was a big moment for me because while I have been writing music for many years, this was the first time that I felt like
@@ -34,14 +36,17 @@ songs. This blows my mind and makes me want to jump right back into my DAW :)
 Across all socials I am at about 220 followers.
 
 During the summer I finalized [The Veganeko Weirdo Game](https://riesenradler.itch.io/veganeko-weirdo) with my partner. I am fascinated by video games as entertainment and art and always wanted to contribute to the field. To actually bring a game from
-idea to a finalized state is and unbelievable amount of work and I certainly learned to appreciate every game I play even more, now that I know what it takes to make them. Both of us learned a lot
-during the project, especially the use of a real time engine and how to adapt art and music to be usable in a game and I certainly want to continue making games, although music will take precedence
+idea to a finalized state is an unbelievable amount of work and I certainly learned to appreciate every game I play even more, now that I know what it takes to make them. Both of us learned a lot
+during the project, especially the use of a real time engine and how to adapt art and music to be usable in engine. I certainly want to continue making games, although music will take precedence
 in 2021.
 
-One last aspect of actually taking the leap and publishing my music that I did not expect at all and might be the most enriching, is that why showing myself as a musician on social media, I actually
-got to know a whole array of new artists that I might never have otherwise discovered. I feel this is most palpable reward for spending your time online in order to establish a presence in your field:
-you get to know the thing you love even better and make the acquaintance of like-minded people. Here, I want to take a moment for a shoutout for the artists I have come across during the year and whose
-style resonates with me particularly well. I cannot reference everybody of course, but you know there is always more to discover!
+
+## New Discoveries
+
+One last aspect of actually taking the leap and publishing my music that I did not expect at all and might be the most enriching, is that while showing myself as a musician on social media, I actually
+got to know a whole array of new artists that I might never have otherwise discovered. I feel this is most direct reward for spending your time online in order to establish a presence in your field:
+you learn about the thing you love even better and make the acquaintance of like-minded people. Here, I want to take a moment for a shoutout to the artists I have come across during this year and whose
+style resonates with me particularly well. I cannot reference everybody of course, but you know there is always more to discover !
 
 I have particularly enjoyed the work of these musicians:
 - [The Broken Cradle](https://thebrokencradle.bandcamp.com/album/gilead) wonderful ambient music
@@ -51,7 +56,10 @@ I have particularly enjoyed the work of these musicians:
 - [Hainbach](https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g) analogue electronic gear wizard, great communicator
 - [Yhiira](https://www.youtube.com/channel/UCztAeIf3W6bMeSHEAqJl_eg) promising cinematic composer
 
-To close of this review, a little look-ahead to my projects for 2021. I am currently working on an electronic album featuring the voice of the hugely talented <a href="https://www.instagram.com/veganekoweirdo/">Veganeko Weirdo</a> . It will be a quite
+
+## Outlook
+
+To close off this review, a little look-ahead to my projects for 2021. I am currently working on an electronic album featuring the voice of the hugely talented <a href="https://www.instagram.com/veganekoweirdo/">Veganeko Weirdo</a> . It will be a quite
 critical take on our current, isolated, internet dependent society. Later this year I have another album planned, which might be based on some of my old sci-fi stories and would like to build up more
 visual interpretations of my music and create music videos.
 I want to bring up the numbers to at double and provide some more direct means to interact with my audience.
@@ -59,7 +67,9 @@ I want to bring up the numbers to at double and provide some more direct means t
 Thank you all for listening and I hope you will enjoy what's coming next!
 
 
-## Header image by:
+
+
+## Header image by
 
 [loravisuals @ unsplash](https://unsplash.com/@loravisuals)
 
