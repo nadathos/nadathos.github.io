@@ -34,7 +34,8 @@ possibilities humanity is about to unlock for itself. I like to understand some 
 resembles Cyberpunk more than the brothers Strugatsky. It can feel like a clownshow where you can become a millionaire overnight by posting bad
 jokes on the right subreddit and never accomplish anything by farsighted work.
 
-Cow Working Space is about this feeling, this atmosphere. It is our *The Last Day of Pompeii* or *Dr.Strangelove* .
+Cow Working Space is about this feeling, this atmosphere.
+It is our *The Last Day of Pompeii* or *Dr.Strangelove* .
 
 
 ## Stylistic Remarks and personal development
