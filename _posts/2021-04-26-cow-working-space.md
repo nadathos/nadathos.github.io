@@ -55,5 +55,5 @@ The album will be available on bandcamp June 1st: [Bandcamp](https://riesenradle
 
 ## Links
 
-[VeganekoWeirdo on Instagram](https://www.instagram.com/veganekoweirdo/)
+[VeganekoWeirdo on Instagram](https://www.instagram.com/veganekoweirdo/) <br>
 [Riesenradler on Instagram](https://www.instagram.com/riesenradler_music/)
