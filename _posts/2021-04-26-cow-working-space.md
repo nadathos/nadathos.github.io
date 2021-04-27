@@ -9,7 +9,7 @@ date: '2021-04-26'
 permalink: /:title/
 ---
 
-On June 1st 2021 I|m releasing my next album, "Cow Working Space"
+On June 1st 2021 I'm releasing my next album "Cow Working Space"
 
     style: electronic, cyberpunk, synthpop, experimental pop, online culture
 
@@ -28,26 +28,27 @@ recent developments on an intuitiv level yet and it would be the artist|s role t
 What I saw now is that in reality the opposite is true. People seem to have very strong feelings about today|s life and the near future,
 almost all of them negative: cynicism, panic, fear of obsolescence, fear of living in an IoT meatgrinder, where we eventually perish without
 ever finding meaning or purpose. While reading "Homo Deus" by Yuval Harari I realized that even outside of purely technophile circles people
-were seriously starting to consider the possiblity that most of our lives won|t have any social meanaing whatsover. When Cyberpunk released,
+were seriously starting to consider the possibility that most of our lives won|t have any social meaning whatsover. When Cyberpunk released,
 I found myself absorbed in its cynical and downright violent world. I am an optimist and like to dream about the
 possibilities humanity is about to unlock for itself. I like to understand some of the science behind it. But I had to admit, the world today
-resembles Cyberpunk more than the brothers Strugatsky. It feels like a clownshow where you can become a millionaire overnight by posting bad
+resembles Cyberpunk more than the brothers Strugatsky. It can feel like a clownshow where you can become a millionaire overnight by posting bad
 jokes on the right subreddit and never accomplish anything by farsighted work.
 
-Cow Working Space is about this feeling, this atmosphere. It|s our _The Last Day of Pompeii_ or _Dr.Strangelove_ .
+Cow Working Space is about this feeling, this atmosphere. It|s our *The Last Day of Pompeii* or *Dr.Strangelove* .
+
 
 ## Stylistic Remarks and personal development
 
 We wanted to make this record as personal as possible. Only our vocals, our texts, mix, artwork.
 Most hyperpolished, megaproduced, overhyped stuff out there smells like fake all the way to Mt. Olympus. I feel like low fidelity and eccentricity
-outweigh commercial productions, it|s a feature, not a bug. In a day where social relationships are guided by discovery algorithms
-designed to drive advertisement and not personal growth, not pretending to be anything but oneself just feels good.
+add flavor, it|s a feature, not a bug. In times where social relationships are guided by discovery algorithms
+designed to drive advertisement and not personal growth, not pretending to be anything but oneself feels right.
 
 It was the first time that I worked with vocals and also used my own voice as an instrument and for a couple of sung lines. For me personally this is a big
 achievement and it won|t be the last time! Stylistically I continue to draw inspiration from classical music and video games but this time I went for
-some more agressive textures at times and the distant past of electronic music, where tunes where more optimistic.
+some more agressive textures and also the distant past of electronic music, where tunes used to be more optimistic.
 
-This year VeganekoWeirdo and I are celebrating our 10 year anniversary and "Cow Working Space" is a wonderful memorial to our life together. I am very happy
+This year VeganekoWeirdo and I are celebrating our 10-year anniversary and "Cow Working Space" is a wonderful memorial to our life together. I am very happy
 with how it turned out and now on to new projects!
 
 The album will be available on bandcamp June 1st: [Bandcamp](https://riesenradler.bandcamp.com/album/cow-working-space)
