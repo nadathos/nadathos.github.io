@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Riesenradler
-title: "Reviewing 2020"
+title: "New Album: Cow Working Space"
 thumbnail: /assets/images/cowworkingspace.png
 categories: [2021, review, project, music, album, concept]
 tags: [project, music, electronic, album, review, 2021, milestone, development, synthpop, electropop]
