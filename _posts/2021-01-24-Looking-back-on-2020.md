@@ -25,7 +25,7 @@ In April 2020, I released my debut album [Dimsum&Jetlag](https://riesenradler.ba
 contributing an original, new voice to our musical landscape. I was so happy and motivated, that the second album [Under The Nanorain](https://riesenradler.bandcamp.com/album/https://riesenradler.bandcamp.com/album/under-the-nanorain) practically wrote itself in just a couple of
 months, a darker, future oriented work, released in November.
 
-I am also interested in the non-artistic elements of building up a musician's persona on the internet in the 21st century and a big part of my learning process actually involved things like
+I am also interested in the non-artistic elements of building up a musician|s persona on the internet in the 21st century and a big part of my learning process actually involved things like
 using social media to promote and reach out, videos to further flesh out a style or atmosphere and the different channels available to actually get your work heard. This is an area where I have
 lots of ideas to build up from and want to continually improve, because my biggest joy is presenting a whole stylistic package for people to think about, to dream, to have fun and - why not -
 also to argue about. My favorite artists allow me to see the world under new angles and viewpoints and enrich my life immensely and I want to be one of those artists.
@@ -66,7 +66,7 @@ critical take on our current, isolated, internet dependent society. Later this y
 visual interpretations of my music and create music videos.
 I want to bring up my listeners to double the current peak amount and provide some more direct means to interact with my audience.
 
-Thank you all for listening and I hope you will enjoy what's coming next!
+Thank you all for listening and I hope you will enjoy what|s coming next!
 
 
 
